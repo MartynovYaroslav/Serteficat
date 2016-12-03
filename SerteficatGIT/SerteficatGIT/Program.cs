@@ -10,7 +10,7 @@ namespace SerteficatGIT
     {
         static void Main(string[] args)
         {
-            string git = "Описание работы C# в GIT: ";
+            string git = "Описание работы C# в GIT";
         }
     }
 }
